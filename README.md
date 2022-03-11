@@ -7,7 +7,7 @@ teacher:Wen-Chieh (Steve) Lin (林文杰)
 
 ## LAB1
 
-*You can watch the demo videos by downloading the HW1_update.pdf*
+*You can watch the demo videos by downloading the HW1_update.pdf. The videos URL is embedded in the pdf.*
 
 ## LAB2
 
